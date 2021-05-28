@@ -1,5 +1,5 @@
 # Euclidian-Algorithm
-##Author
+## Author
 Fernando
-##License
+## License
 MIT
